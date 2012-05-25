@@ -6,8 +6,7 @@ find_path(STM32_LIBRARY_ROOT_DIR
     DOC "STM32 libraries root directory: STM32F4xx_DSP_StdPeriph_Lib_V1.0.1/Libraries"
     )
 
-
-set(STM32_STARTUP_SOURCE ${STM32_LIBRARY_ROOT_DIR}/CMSIS/Device/ST/STM32F4xx/Source/Templates/TrueSTUDIO/startup_stm32f4xx.s)
+set(STM32_STARTUP_SOURCE ${STM32_LIBRARY_ROOT_DIR}/CMSIS/Device/ST/STM32F4xx/Source/Templates/gcc_ride7/startup_stm32f4xx.s)
 
 set(STM32_INCLUDE_DIRS
     ${STM32_LIBRARY_ROOT_DIR}/CMSIS/Include

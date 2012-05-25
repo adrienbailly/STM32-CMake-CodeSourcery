@@ -25,3 +25,6 @@ endif()
 # Find the STM32 library package
 find_package(${STM32_PACKAGE_NAME} REQUIRED)
 
+# STM32 ST-Link Utility
+find_package(STLinkUtility)
+
