@@ -8,3 +8,11 @@ Some links that have proven to be useful during this project:
 - "CMake cross-compiling":http://www.cmake.org/Wiki/CMake_Cross_Compiling
 - "CMake and STM32":https://github.com/ObKo/stm32-cmake
 - "STM32 CMSIS & StdPeriph libraries":http://www.st.com/internet/mcu/family/141.jsp
+
+TODO:
+- Installation:
+-- CMake
+-- STM32 CMSIS + StdPeriph
+- Configure projet
+- Build & Program
+- Description
